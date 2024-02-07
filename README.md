@@ -2,7 +2,7 @@
 # 개인 Java Script 프로젝트 <br>
 # :camera: 직원 사진 및 정보 관리 서비스
 
-배포 주소 : https://javascript-picture.web.app/index.html 
+배포 주소 : https://javascript-picture.web.app/
 
 <table>
   <tr>
